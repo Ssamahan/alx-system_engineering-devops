@@ -1,1 +1,1 @@
-My Alx Journal in Alx system engineering development repository.
+My first time on Alx system engineering devops by learning more about shell.
